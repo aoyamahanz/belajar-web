@@ -3,3 +3,4 @@ belajar website
 - belajar web sederhana
 - belajar css web
 - belajar tampilan web sederhana
+- membuat web profile
