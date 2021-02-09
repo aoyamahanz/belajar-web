@@ -1,8 +1,10 @@
 Rencana Kontent Web
 
-- portfolio
 - company profile
   * HTML
   * CSS
+    ^ Bootraps
+  * PHP
+    ^ CI
 - web katalog
 - e-commerce
